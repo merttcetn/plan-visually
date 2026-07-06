@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.claude/settings.local.json
+SPEC.md
+FINDINGS.md
+RESOURCES.md
+CLAUDE.md
+AGENTS.md
+FEEDBACK.md

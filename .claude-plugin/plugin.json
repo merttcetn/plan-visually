@@ -1,0 +1,9 @@
+{
+  "name": "plan-visually",
+  "version": "0.1.0",
+  "description": "Opt-in browser review for Claude Code plans, packaged as a PermissionRequest hook plus a visualize-plan skill.",
+  "author": {
+    "name": "mertcetin"
+  },
+  "keywords": ["planning", "review", "hooks", "ExitPlanMode", "visualization"]
+}

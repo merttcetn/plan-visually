@@ -1,0 +1,14 @@
+{
+  "name": "plan-visually",
+  "description": "Claude Code plan review plugin for visual browser-based plan approval.",
+  "owner": {
+    "name": "mertcetin"
+  },
+  "plugins": [
+    {
+      "name": "plan-visually",
+      "source": "./",
+      "description": "Opt-in browser review for Claude Code plans with a fast visual-spec template and approval feedback loop."
+    }
+  ]
+}
