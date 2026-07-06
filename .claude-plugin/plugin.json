@@ -5,5 +5,8 @@
   "author": {
     "name": "mertcetin"
   },
+  "license": "MIT",
+  "homepage": "https://github.com/merttcetn/plan-visually",
+  "repository": "https://github.com/merttcetn/plan-visually",
   "keywords": ["planning", "review", "hooks", "ExitPlanMode", "visualization"]
 }
